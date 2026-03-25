@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 de0265
-## Favorie Food
-Enchiladas
+## Favorie Professor
+Ms. Paige
